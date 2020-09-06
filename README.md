@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![main](./main.jpeg)
 Hi, my research interests include Language Acquisition, Computational Linguistics, and Bilingualism.
 
 ## Education
